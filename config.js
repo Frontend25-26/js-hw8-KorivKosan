@@ -1,1 +1,1 @@
-export const REPO_NAME = '/js-hw8-korivkosan'
+export const REPO_NAME = '/js-hw8-KorivKosan'
